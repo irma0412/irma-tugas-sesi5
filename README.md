@@ -25,7 +25,7 @@ git clone https://github.com/username/irma-tugas-sesi5.git
 
 git add .
 
-Buat Commit
+# Buat Commit
 
 - Commit perubahan dengan pesan deskriptif:
 
